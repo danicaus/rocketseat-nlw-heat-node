@@ -1,3 +1,3 @@
 import { serverHttp } from "./app";
 
-serverHttp.listen(4000, () => console.log("Hello, world! server is running"));
+serverHttp.listen(4000, () => console.log("Hello, world! server is running on port 4000"));

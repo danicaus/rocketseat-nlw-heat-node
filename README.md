@@ -2,21 +2,18 @@
 
 Esse projeto foi desenvolvido durante a NLW Heat, realizada em Outubro de 2021. A trilha que desenvolveu essa aplicação foi a Impulse.
 
----
 ## **Objetivo da aplicação**
 
 Essa aplicação é voltada para a troca de mensagens para comentar o evento da RocketSeat, que acontecerá no mês de Dezembro de 2021.
 
 Os usuários deverão se logar no Github através do OAuth, e poderão criar novos comentários, bem como responder a comentários já criados.
 
----
 ## **Tecnologias utilizadas**
 
 - Node.js
 - TypeScript
 - Prisma
 
----
 ## **Libs utilizadas**
 
 - Axios
@@ -26,7 +23,6 @@ Os usuários deverão se logar no Github através do OAuth, e poderão criar nov
 - jsonwebtoken
 - socket.io
 
----
 ## **Desenvolvido em aula**
 
 
